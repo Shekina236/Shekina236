@@ -1,0 +1,95 @@
+{
+  "entreprise": {
+    "nom": "E-MED",
+    "description": "E-MED est une entreprise innovante spécialisée dans les consultations médicales en ligne. Nous offrons un accès rapide et sécurisé à des médecins qualifiés, permettant aux patients de bénéficier de soins médicaux sans avoir à se déplacer.",
+    "mission": [
+      "Offrir des soins médicaux accessibles partout et à tout moment.",
+      "Réduire les barrières géographiques et financières à l’accès aux soins.",
+      "Assurer un suivi médical de qualité grâce aux nouvelles technologies."
+    ],
+    "contact": {
+      "email": "tshikele88@gmail.com",
+      "whatsapp": "+243 974 746 029",
+      "site_web": "Votre site web",
+      "localisation": "République Démocratique du Congo"
+    }
+  },
+  "consultations": {
+    "procedure": [
+      "Interrogatoire médical : le médecin pose des questions ciblées sur la plainte principale.",
+      "Analyse et discussion médicale : les médecins collaborent pour un diagnostic précis.",
+      "Diagnostic et prise en charge : conseils, ordonnances numériques, orientation si nécessaire.",
+      "Suivi médical : assistance continue après la consultation."
+    ],
+    "moyen_de_consultation": "WhatsApp (message, note vocale ou appel vidéo)",
+    "raison_whatsapp": [
+      "Facilité d’accès",
+      "Rapidité",
+      "Confidentialité"
+    ]
+  },
+  "services": [
+    "Consultations générales et spécialisées",
+    "Ordonnances et certificats médicaux numériques",
+    "Suivi des maladies chroniques (diabète, hypertension, etc.)",
+    "Orientation vers des cliniques partenaires"
+  ],
+  "offres": [
+    {
+      "nom": "Offre Essentielle",
+      "prix": "15$",
+      "description": "Consultation unique avec suivi de 2 semaines",
+      "avantages": [
+        "Consultation en ligne avec un médecin qualifié",
+        "Ordonnance numérique",
+        "Conseils médicaux personnalisés",
+        "Accès à un groupe privé",
+        "Certificat médical si nécessaire"
+      ]
+    },
+    {
+      "nom": "Offre Sérénité",
+      "prix": "30$/mois",
+      "description": "Consultations illimitées pendant 30 jours",
+      "avantages": [
+        "Consultations sans restriction",
+        "Suivi régulier et contact 24/7",
+        "Accès VIP à un canal Telegram",
+        "Contenus premium (guides PDF, webinaires)"
+      ]
+    },
+    {
+      "nom": "Offre Famille",
+      "prix": "60$/mois",
+      "description": "Consultations illimitées pour 5 membres de la famille",
+      "avantages": [
+        "Consultations illimitées pour toute la famille",
+        "Suivi médical régulier",
+        "Accès à des contenus santé exclusifs"
+      ]
+    },
+    {
+      "nom": "Offre Famille Plus",
+      "prix": "90$/mois",
+      "description": "Consultations illimitées pour les grandes familles",
+      "avantages": [
+        "Consultations pour toute la famille sans restriction",
+        "Accès rapide et sécurisé aux soins"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "C'est trop cher.",
+      "reponse": "Nos services vous permettent d’économiser sur les déplacements et le temps d’attente. Nos abonnements offrent des consultations illimitées et un suivi personnalisé."
+    },
+    {
+      "question": "Est-ce que c’est aussi fiable qu’une consultation en personne ?",
+      "reponse": "Nos médecins sont qualifiés et utilisent des outils professionnels. Si nécessaire, ils vous orienteront vers une consultation physique."
+    },
+    {
+      "question": "Et si j’ai besoin d’une ordonnance ou d’un certificat médical ?",
+      "reponse": "Nos médecins délivrent des ordonnances et certificats médicaux numériques valides et reconnus."
+    }
+  ]
+}
